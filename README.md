@@ -5,7 +5,8 @@ The upgrade is easily reversible. Feel free to take and upgrade this project !
 
 I based this project out of a D1miniPro but it can be made with a classic NodeMCU or another ESP board with similar component *(be carefull the D1Mini, even if it has a 5v output, runs on 3,3v)*
 ## How it works
-![UI]([sensIO%20UI.png](https://github.com/happy59/sensIO/blob/master/SensIO%20UI.png))
+![UI](SensIO%20UI.png)
+
 Using this interface you can :
  - Know if there's a cup
  - Stirr your cup
